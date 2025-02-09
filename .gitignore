@@ -1,0 +1,16 @@
+# Build ve bağımlılık klasörleri
+bin/
+obj/
+node_modules/
+wwwroot/
+
+# Kullanıcıya özel dosyalar
+.vscode/
+.idea/
+*.suo
+*.user
+*.db
+
+# Konfigürasyon dosyaları
+appsettings.json
+appsettings.Development.json
